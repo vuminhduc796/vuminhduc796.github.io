@@ -1,0 +1,3 @@
+switchConcept() {
+    return 0;
+}
