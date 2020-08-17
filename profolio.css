@@ -107,7 +107,7 @@ div > element > p {
     color: white;
     text-align: center;
  }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .column {
       width: 100%;
     }
