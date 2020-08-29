@@ -93,6 +93,7 @@ div > element > h4 {
     padding-left: 15px;
     padding-right: 20px;
     font-size: 14px;
+    text-align: justify;
 }
 div > element > p {
     padding-left: 10px;
